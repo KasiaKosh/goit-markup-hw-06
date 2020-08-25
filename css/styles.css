@@ -808,6 +808,13 @@ form{
   height: 40px;
 }
 
+.modal-icon{
+  position: absolute;
+  top: 104px;
+  left: 53px;
+  display: inline-block;
+}
+
 .form-comment {
   display: flex;
   flex-direction: column;
@@ -864,6 +871,8 @@ margin-left: 9px;
 /*display: flex;
 justify-content: center;*/
 }
+
+
 
 /*textarea{
   resize: none;
