@@ -792,6 +792,13 @@ form{
   position: relative;
 }
 
+.modal-icon{
+  position: absolute;
+  top: 11px;
+  left:12px;
+  transform: translate(50%;50%)
+}
+
 
 .form-fild label{
   margin-bottom: 4px;
@@ -808,12 +815,7 @@ form{
   height: 40px;
 }
 
-.modal-icon{
-  position: absolute;
-  top: 50%;
-  left:50%;
-  transform: translate(-50%, -50%);
-}
+
 
 .modal-icon:hover,
 .modal-icon:focus {
